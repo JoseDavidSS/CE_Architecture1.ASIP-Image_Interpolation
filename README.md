@@ -1,2 +1,2 @@
-# ComputerArchitecture1.Project2
-Application Specific Set Processor (ASIP) for image interpolation.
+# ASIP Image Interpolation
+Segundo proyecto para el curso de Arquitectura de Computadores. La idea es hacer un ASIP (Application Specific Set Processor) que genere interpolación de imagen por medio de un compilador, código en ensamblador, un procesador pipeline y scripts en alto nivel. Se desarrolla el proyecto utilizando el lenguaje de programación System Verilog y Python implementando tecnologías como Quartus Prime y ModelSim.
